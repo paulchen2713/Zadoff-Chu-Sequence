@@ -35,5 +35,6 @@ zc_sequence =
 #09   1.0000 +  0.0000j, r = 1.0, theta =  0.0000 =  0.0
 #10  -0.5878 +  0.8090j, r = 1.0, theta =  2.1991 =  126.0
 ```
-![image](https://github.com/user-attachments/assets/b47473a9-e560-4a81-bf8e-1d3f446139c0)
+![螢幕擷取畫面 2024-10-26 165129](https://github.com/user-attachments/assets/93d7bbe8-3521-4ef7-be55-fa4de9b96a2f)
+
 
