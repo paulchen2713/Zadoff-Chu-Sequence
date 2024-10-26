@@ -1,6 +1,6 @@
 # Zadoff-Chu-Sequence
 
-## Zadoff-Chu Sequence in Python
+## Python
 Try running ```zadoff_chu_sequence``` on [Online Numpy Compiler](https://python-fiddle.com/saved/ZtvWxOiEDkqHYK0I6dSO?run=true)
 
 Sample output of ```zadoff_chu_sequence(10, 7, 1)```:
@@ -13,7 +13,7 @@ Sample output of ```zadoff_chu_sequence(10, 7, 1)```:
 ```
 
 
-## Zadoff-Chu Sequence in MATLAB
+## MATLAB
 Sample output of ```zadoff_chu_sequence(10, 7, 1)```:
 ```
 zc_sequence =
