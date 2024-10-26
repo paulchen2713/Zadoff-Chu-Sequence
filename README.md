@@ -23,6 +23,7 @@ zc_sequence =
    0.3090 + 0.9511i   0.9511 - 0.3090i
    1.0000 + 0.0000i  -0.5878 + 0.8090i
 ```
+
 Output of ```print_sequence(zc_sequence)```:
 ```
 #01   1.0000 +  0.0000j, r = 1.0, theta =  0.0000 =  0.0
@@ -36,7 +37,8 @@ Output of ```print_sequence(zc_sequence)```:
 #09   1.0000 +  0.0000j, r = 1.0, theta =  0.0000 =  0.0
 #10  -0.5878 +  0.8090j, r = 1.0, theta =  2.1991 =  126.0
 ```
-Output figure of the phase and the magnitude:
+
+Output figure of the phase and the magnitude: \
 ![螢幕擷取畫面 2024-10-26 165129](https://github.com/user-attachments/assets/93d7bbe8-3521-4ef7-be55-fa4de9b96a2f)
 
 
