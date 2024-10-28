@@ -1,7 +1,7 @@
 # Zadoff-Chu-Sequence
 
 ## Python
-Try running ```zadoff_chu_sequence``` on [Online Numpy Compiler](https://python-fiddle.com/saved/ZtvWxOiEDkqHYK0I6dSO?run=true)
+Try running ```zadoff_chu_sequence``` on [Online Numpy Compiler](https://python-fiddle.com/saved/qAQ5sacqokXsoDJm4UF8?run=true)
 
 Sample output of ```zadoff_chu_sequence(10, 7, 1)```:
 ```
